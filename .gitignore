@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual envs (optional)
+.venv/
+venv/
+ENV/
+
+# Editors (optional)
+.vscode/
+.idea/
